@@ -1,2 +1,1 @@
 # CTCI Solutions
-# ctci-solutions
